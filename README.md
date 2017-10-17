@@ -2,7 +2,7 @@
 Intro to Machine Learning using Jupyter/IPython notebook for the Association of Data Science and Analytics at UIUC.
  
 ## Example: Visualize genomic overlap of novel transcripts from 2 different stickleback brain regions (Diencephalon and Telencephalon)
-* Download and install Enthought Canopy from here: https://store.enthought.com/downloads/
+* Download and install Enthought Canopy from here (choose one with Python 3.5) : https://store.enthought.com/downloads/
 * download the python notebook and text file in this repository into a local folder: (https://github.com/jmtroy/canopy_example/blob/master/test_plots.ipynb and https://github.com/jmtroy/canopy_example/blob/master/max_overlap_from_diff_and_same_brain_region.txt )
 * start canopy and open the python note book
 * Then you can run the blocks in the notebook.  But be sure to update the file path to reflect where you downloaded the text file.
